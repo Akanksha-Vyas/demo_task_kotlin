@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mHome"
+        android:title="Home"
+        android:icon="@drawable/ic_home_icon"/>
+
+    <item android:id="@+id/mLive"
+        android:title="Live Class"
+        android:icon="@drawable/ic_live_icon"/>
+
+    <item android:id="@+id/placeholder"
+        android:title=""/>
+
+    <item android:id="@+id/mFriends"
+        android:title="Friends"
+        android:icon="@drawable/ic_friends_icon"/>
+
+    <item android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile_icon"/>
+
+</menu>
